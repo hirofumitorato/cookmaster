@@ -48,8 +48,14 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (7.1.4)
+    autoprefixer-rails (9.7.6)
+      execjs
     bcrypt (3.1.13)
     bindex (0.8.1)
+    bootstrap (4.4.1)
+      autoprefixer-rails (>= 9.1.0)
+      popper_js (>= 1.14.3, < 2)
+      sassc-rails (>= 2.0.0)
     builder (3.2.4)
     bulma-rails (0.8.0)
       sassc (~> 2.0)
@@ -111,6 +117,7 @@ GEM
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
+    popper_js (1.16.0)
     puma (3.12.4)
     rack (2.2.2)
     rack-protection (2.0.8.1)
@@ -169,6 +176,12 @@ GEM
       tilt (>= 1.1, < 3)
     sassc (2.3.0)
       ffi (~> 1.9)
+    sassc-rails (2.1.2)
+      railties (>= 4.0.0)
+      sassc (>= 2.0)
+      sprockets (> 3.0)
+      sprockets-rails
+      tilt
     sinatra (2.0.8.1)
       mustermann (~> 1.0)
       rack (~> 2.0)
@@ -213,6 +226,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootstrap (~> 4.4.1)
   bulma-rails
   byebug
   coffee-rails (~> 4.2)
