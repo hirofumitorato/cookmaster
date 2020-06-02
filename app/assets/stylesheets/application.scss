@@ -31,3 +31,10 @@
 	background-repeat: no-repeat;
 	background-size: contain;
 }
+
+.card-content {
+	flex-wrap: wrap;
+	align-items: stretch;
+	height: 140px;
+}
+
