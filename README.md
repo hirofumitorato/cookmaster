@@ -25,6 +25,19 @@
 ユーザー名: test
 
 
+## 📦 Features
+
+<h3 align="center">- いいね機能（同期通信） -</h3>
+
+
+![demo](https://gyazo.com/5dc2f1d9666f2cadad32fb58adb431a2/raw)
+
+
+
+
+
+
+
 
 ## :ticket:　Licence
 <a href="https://raw.githubusercontent.com/hirofumitorato/cookmaster/master/LICENSE?token=APDTHA3UOGC7ZNYBP4GAJXC62WZCM">MIT</a>
