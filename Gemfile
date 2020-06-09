@@ -44,6 +44,7 @@ end
 group :production do
 
   gem 'pg'
+  gem 'unicorn', '5.4.1'
 
 end
 
@@ -66,3 +67,4 @@ gem "bulma-rails"
 gem 'bootstrap', '~> 4.4.1'
 gem "refile-s3"
 gem 'dotenv-rails'
+
