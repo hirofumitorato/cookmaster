@@ -65,6 +65,4 @@ gem "refile", require: "refile/rails", github: 'manfe/refile'
 gem "refile-mini_magick"
 gem "bulma-rails"
 gem 'bootstrap', '~> 4.4.1'
-gem "refile-s3"
-gem 'dotenv-rails'
 
