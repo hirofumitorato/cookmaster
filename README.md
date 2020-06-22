@@ -71,7 +71,7 @@
 
 <a href="https://twitter.com/torahiro19">Twitter</a>
 
-<a href="https://qiita.com/h_torato">Qiita</a>
+<a href="https://qiita.com/torahiro19">Qiita</a>
 
  
 　
