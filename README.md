@@ -69,9 +69,9 @@
 
 <a href="https://github.com/hirofumitorato">Github</a>
 
-<a href="https://twitter.com/torato_h">Twitter</a>
+<a href="https://twitter.com/torahiro19">Twitter</a>
 
-<a href="https://qiita.com/h_torato">Qiita</a>
+<a href="https://qiita.com/torahiro19">Qiita</a>
 
  
 　
