@@ -1,9 +1,7 @@
 source 'https://rubygems.org'
+git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-git_source(:github) do |repo_name|
-  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
-  "https://github.com/#{repo_name}.git"
-end
+ruby '2.5.8'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -65,4 +63,5 @@ gem "refile", require: "refile/rails", github: 'manfe/refile'
 gem "refile-mini_magick"
 gem "bulma-rails"
 gem 'bootstrap', '~> 4.4.1'
+gem 'fog-aws'
 
