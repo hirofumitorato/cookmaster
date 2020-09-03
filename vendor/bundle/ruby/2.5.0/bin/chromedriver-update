@@ -20,8 +20,8 @@ if str
 end
 
 if Gem.respond_to?(:activate_bin_path)
-load Gem.activate_bin_path('chromedriver-helper', 'chromedriver-helper', version)
+load Gem.activate_bin_path('chromedriver-helper', 'chromedriver-update', version)
 else
 gem "chromedriver-helper", version
-load Gem.bin_path("chromedriver-helper", "chromedriver-helper", version)
+load Gem.bin_path("chromedriver-helper", "chromedriver-update", version)
 end
